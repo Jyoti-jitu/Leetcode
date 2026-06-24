@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyoti-jitu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Jyoti-jitu/Leetcode/tree/master/0796-rotate-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Jyoti-jitu/Leetcode/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
