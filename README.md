@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jyoti-jitu/Leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyoti-jitu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyoti-jitu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/0189-rotate-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
