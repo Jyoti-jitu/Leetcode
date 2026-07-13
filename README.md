@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jyoti-jitu/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyoti-jitu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/0189-rotate-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jyoti-jitu/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Jyoti-jitu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0796-rotate-string](https://github.com/Jyoti-jitu/Leetcode/tree/master/0796-rotate-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jyoti-jitu/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
