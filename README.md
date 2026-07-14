@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jyoti-jitu/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Jyoti-jitu/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyoti-jitu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0268-missing-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jyoti-jitu/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyoti-jitu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
