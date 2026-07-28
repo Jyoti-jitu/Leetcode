@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jyoti-jitu/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Jyoti-jitu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Jyoti-jitu/Leetcode/tree/master/0242-valid-anagram) |
+| [0657-robot-return-to-origin](https://github.com/Jyoti-jitu/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Jyoti-jitu/Leetcode/tree/master/0796-rotate-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String Matching
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Jyoti-jitu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyoti-jitu/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Jyoti-jitu/Leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
