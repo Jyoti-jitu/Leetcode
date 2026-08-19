@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/Jyoti-jitu/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/Jyoti-jitu/Leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
