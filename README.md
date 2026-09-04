@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Jyoti-jitu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyoti-jitu/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Jyoti-jitu/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jyoti-jitu/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Jyoti-jitu/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Jyoti-jitu/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Jyoti-jitu/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
