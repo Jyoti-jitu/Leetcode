@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jyoti-jitu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyoti-jitu/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Jyoti-jitu/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Jyoti-jitu/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Jyoti-jitu/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Jyoti-jitu/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Tree
 |  |
 | ------- |
