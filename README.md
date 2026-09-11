@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Jyoti-jitu/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jyoti-jitu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Jyoti-jitu/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Jyoti-jitu/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Jyoti-jitu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jyoti-jitu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jyoti-jitu/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-jitu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jyoti-jitu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jyoti-jitu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
