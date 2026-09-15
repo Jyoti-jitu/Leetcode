@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyoti-jitu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jyoti-jitu/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-jitu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jyoti-jitu/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jyoti-jitu/Leetcode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Jyoti-jitu/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Jyoti-jitu/Leetcode/tree/master/0796-rotate-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jyoti-jitu/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String Matching
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jyoti-jitu/Leetcode/tree/master/0011-container-with-most-water) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jyoti-jitu/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Jyoti-jitu/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jyoti-jitu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Jyoti-jitu/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Jyoti-jitu/Leetcode/tree/master/0509-fibonacci-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jyoti-jitu/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
 | ------- |
